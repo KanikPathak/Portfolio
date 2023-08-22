@@ -1,0 +1,250 @@
+
+        @import url('https://fonts.cdnfonts.com/css/amazon-ember');
+        #font{
+            font-family: 'Amazon Ember', sans-serif;
+        }
+        body {
+            padding: 0;
+            margin: 0;
+            font-family: 'Amazon Ember', sans-serif;
+            background-color: #e9dede;
+           
+        }
+
+        .navbar {
+            display: flex;
+            align-items: center;
+            /* Align items vertically */
+            height: 65px;
+            width: 100%;
+            background-color: #121a22;
+            color: white;
+            flex-wrap: wrap;
+        }
+
+        .logo {
+            width: 100%;
+            margin-left: 10px;
+        }
+
+        .address-bar {
+            margin-left: auto;
+            /* Pushes the icon to the right */
+            height: 50px;
+            align-items: center;
+            display: flex;
+            justify-content: center;
+        }
+
+        .location {
+            margin-left: 5px;
+        }
+
+        .search-bar {
+            margin-left: 20px;
+            width: 770px;
+        }
+
+        .input-box {
+            width: 700px;
+            height: 40px;
+            border-radius: 10px;
+        }
+
+        .search-button {
+            height: 45px;
+            width: 45px;
+            border-radius: 10px;
+            background-color: rgb(237, 177, 105);
+        }
+
+        .languages-known {
+            width: 40px;
+            height: 40px;
+        }
+
+        #bhasha {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 5px;
+            width: 90px;
+            height: 39px;
+            color: white;
+            background-color: #18212b;
+            border: #18212b;
+        }
+
+        .hello {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: 10px;
+            height: 50px;
+            width: 120px;
+        }
+
+        #lucky {
+            color: white;
+            background-color: #18212b;
+            height: 40px;
+            border-radius: 5px;
+            font-size: 0.3 rem;
+        }
+
+        .feeling-lucky {
+            height: 50px;
+            margin-left: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+
+        .second-navbar {
+            height: 39px;
+            background-color: #24313f;
+            display: flex;
+            flex-direction: row;
+            column-gap: 100px;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            color: #ffffff;
+        }
+
+        .photos {
+            height: 650px;
+         
+            margin: 20px;
+            width: 650px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .line {
+            color: black;
+            margin: 20px;
+            font-size: 1.5rem;
+            height: 80%;
+
+        }
+
+        .Description {
+            display: flex;
+            column-gap: 50px;
+            margin-top: 2%;
+
+        }
+
+        .fa {
+            color: orange;
+        }
+
+        .rating {
+            height: 10px;
+            display: flex;
+            flex-direction: row;
+            align-items: end;
+            margin-top: 7px;
+        }
+
+        .details {
+            display: flex;
+            flex-direction: row;
+            width: 30%;
+        }
+
+        .best-seller {
+            display: flex;
+            margin-top: 17px;
+            height: 15px;
+            width: 350px;
+            font-size: small;
+            align-items: center;
+        }
+
+        .price{
+            font-size: 15px;
+            color: #545050;
+            height: 30px;
+        }
+        #paisa{
+            font-size: larger;
+            color: rgb(189, 69, 13);
+           
+        }
+        #faaltu{
+            color: #2c2b2b;
+            font-size: small;
+            width: 100%
+        }
+
+        .apne-bare-mei{
+            display: flex;
+            flex-direction: row;
+            column-gap: 10px;
+            height: 300px;
+        }
+
+        .gyaan{
+            display: flex;
+            margin-top: 13px;
+            height: 30%;
+            margin-left: -3%;
+            font-size: 15px;
+            color: #2c2b2b;
+        }
+
+        .skill-icons{
+            display: grid;
+            margin-top:27px;
+            margin-left: -20px;
+            grid-template-columns: auto auto auto;
+            column-gap: 40px;
+            height: 46%;
+            row-gap: 30px;
+        }
+
+       .ic{
+            box-shadow: 2px 2px 2px rgb(160, 156, 152);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #2c2b2b; 
+        } 
+        
+        #offer{
+            background-color: green;
+            height: 30px;
+            color: white;
+            border-radius: 5px;
+        }
+        .side-box{
+            margin-left: -2%;
+            width: 19%;
+            height: 500px;
+            display: flex;
+            margin-top: 2%;
+            border: 1px solid rgb(111, 106, 106);
+            color: #2c2b2b;
+            border-radius: 20px;
+            row-gap: 10px;    
+        }
+
+
+        .game{  
+            display: flex;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            height: 50%;
+            width: 100%;
+            cursor: crosshair;
+        }   
+
+        .effect{
+            height: 10px;
+            width: 10px;
+        }   

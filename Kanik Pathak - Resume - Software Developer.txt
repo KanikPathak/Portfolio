@@ -1,0 +1,79 @@
+Kanik Pathak
+Software Developer
+
+Haldwani
++91 9528943131
+
+Passionate and driven MCA student at Banaras Hindu University. Currently seeking internship opportunities to gain hands-on experience by learning new tech. and make a positive impact in the field.
+
+PERSONAL INFORMATION
+  Address: , Haldwani, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * LinkdIn: https://www.linkedin.com/in/kanik-pathak-542322259/
+  * Twitter: https://twitter.com/guyfromplut0
+  * LeetCode: https://leetcode.com/guyfrompluto/
+
+SKILLS
+  CSS3
+  Bootstrap
+  Node.js
+  jQuery
+  HTML5
+  JavaScript
+  
+  C++
+
+EDUCATION
+  * 
+    Banaras Hindu University, Varanasi,  Masters of Computer Applications
+
+    (2022-24)
+  * 
+    ,  
+  * 
+    Jamia Millia Islamia, New Delhi,  BSc(Hons) Mathematics
+
+    CGPA 9.14
+  * 
+    Kendriya Vidyalaya, Pithoragarh,  CLASS XII
+
+    CGPA 9.4
+  * 
+    New Beersheba School, Pithoragarh,  Class X
+
+    CGPA 9.8
+
+EXTRA-CURRICULAR ACTIVITIES
+  * 
+     at , 
+
+    - First Prize in Reasoning quiz by Maths Geek JMI
+- Qualified Regional Level and appeared for State Mathematical Olympiad.
+- First prize in inter-house debate competition (Class X)
+
+
+
+COURSES
+  * 
+    The Joy Of Computing using Python, NPTEL
+  * 
+    , 
+
+
+
+
+PROJECTS
+  * Personal Portfolio, , 
+
+    Created using HTML5, CSS,.
+  * Amazon Home-page clone, , 
+
+    HTML, CSS, BOOTSTRAP
+
+SOFT SKILLS
+  * Good Communication Skills, Cooperative and enthusiastic, Competent decision making, , 
+  * , , 
